@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "*.rmd": "markdown",
+        "limits": "cpp",
+        "utility": "cpp",
+        "xhash": "cpp"
+    }
+}
